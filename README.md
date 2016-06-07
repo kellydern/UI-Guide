@@ -12,3 +12,6 @@ Project Setup and Installation
 4. To generate files for preview, select the plugin then “Generate files for pretty diffs”
 5. Save both Sketch file and artboard export.
 
+![sojernui](https://cloud.githubusercontent.com/assets/8978081/15863320/cb65de10-2c8f-11e6-9426-93108397ccc5.gif)
+
+Demo created with Licecap
